@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)
+
+
 -->
-![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)(https://twitter.com/aniqatc)
-
-
