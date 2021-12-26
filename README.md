@@ -12,7 +12,7 @@
 - [What I Hope to Accomplish During Round 1 of My #100DaysOfCode](https://aniqa.io/100-days-of-code-r1-goals-tasks/)
 - [Topic Log, Round 1 #100DaysOfCode](https://www.aniqa.io/r1-daily-log/)
 - [Topic 0 of #100DaysOfCode: Web & Internet Protocols](https://www.aniqa.io/r1-topic-0/)
-- [Topic 1 of #100DaysOfCode: Bash/zsh Command Line](https://www.aniqa.io/r1-topic-0/)
+- [Topic 1 of #100DaysOfCode: Bash/zsh Command Line](https://www.aniqa.io/r1-topic-1/)
 
 ---
 ### [Subscribe to My Journey 👩🏻‍💻🪄](https://www.aniqa.io/subscribe/)
