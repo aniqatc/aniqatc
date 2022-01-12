@@ -18,3 +18,5 @@
 ---
 ### [Subscribe to My Journey 👩🏻‍💻🪄](https://www.aniqa.io/subscribe/)
 ---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aniqatc&repo=github-readme-stats)](https://github.com/aniqatc)
