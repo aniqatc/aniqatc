@@ -20,3 +20,5 @@
 ---
 
 ![Aniqa's Stats](https://github-readme-stats.vercel.app/api?username=aniqatc&show_icons=true&theme=algolia)
+
+![Aniqa's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aniqatc)
