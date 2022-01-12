@@ -1,4 +1,4 @@
-### Hi there, I'm Aniqa 👋
+### Hi there, I'm Aniqa 👋 ![wakatime](https://wakatime.com/badge/user/c1c1c183-d190-42bd-ae4f-09370e6fbbc6.svg)
 - 😄 Pronouns: she/her
 - 🔭 I’m currently working my way through the [#100DaysOfCode challenge](https://github.com/aniqatc/100-days-of-code).
 - 🌱 I’m currently learning in public: full stack software development & blogging my process along the way.
@@ -18,7 +18,3 @@
 ---
 ### [Subscribe to My Journey 👩🏻‍💻🪄](https://www.aniqa.io/subscribe/)
 ---
-
-![Aniqa's Stats](https://github-readme-stats.vercel.app/api?username=aniqatc&show_icons=true&theme=algolia)
-
-![Aniqa's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=c1c1c183-d190-42bd-ae4f-09370e6fbbc6)
