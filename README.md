@@ -16,7 +16,7 @@
 - [Topic 1 of #100DaysOfCode: Bash/zsh Command Line](https://www.aniqa.io/r1-topic-1/)
 
 ---
-  ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=aniqatc&hide=contribs,prs&theme=algolia)
+ <a href="https://www.aniqa.io"><img src="https://github-readme-stats.vercel.app/api?username=aniqatc&hide=contribs,prs&theme=algolia"></a>
   
   ### [Subscribe to My Journey 👩🏻‍💻🪄](https://www.aniqa.io/subscribe/)
 
