@@ -27,6 +27,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/aniqatc)
 [![Polywork](https://img.shields.io/badge/-Polywork-000?logo=polywork)](https://updates.aniqa.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/aniqaio/)
-[![Discord](https://img.shields.io/badge/-Discord-000?logo=discord)](dsc.bio/aniqatc)
-[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-000?logo=buymeacoffee)](https://www.linkedin.com/in/aniqaio/)
+[![Discord](https://img.shields.io/badge/-Discord-000?logo=discord)](https://dsc.bio/aniqatc)
+[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-000?logo=buymeacoffee)](https://www.buymeacoffee.com/aniqatc)
 
