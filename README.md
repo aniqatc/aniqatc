@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning in public: full stack software development & blogging my process along the way.
 - 👯 I’m looking to collaborate on open-source projects, hackathons, and interning opportunities.
 - ⚡ Fun fact: I used to work at an elected official's office for three years - the complete opposite of the tech world 😅
-- 👩🏻‍💻 Hours spent in VS Code since January 5th: <a href="https://www.aniqa.io"><img src="https://wakatime.com/badge/user/c1c1c183-d190-42bd-ae4f-09370e6fbbc6.svg"></a>
+- 👩🏻‍💻 Hours spent in VS Code, 2022: <a href="https://www.aniqa.io"><img src="https://wakatime.com/badge/user/c1c1c183-d190-42bd-ae4f-09370e6fbbc6.svg"></a>
 
 ---
 ### My Featured Blog Posts
