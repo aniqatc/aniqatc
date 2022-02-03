@@ -14,8 +14,8 @@
 - [What I Hope to Accomplish During Round 1 of My #100DaysOfCode](https://www.aniqa.io/100-days-of-code-r1-goals-tasks/)
 - [Topic Log, Learning in Public](https://www.aniqa.io/r1-topic-log/)
 - [Daily Log, #100DaysOfCode](https://www.aniqa.io/r1-daily-log/)
-- [Topic 0: Web & Internet Protocols](https://www.aniqa.io/r1-topic-0/)
-- [Topic 1: Bash/zsh Command Line](https://www.aniqa.io/r1-topic-1/)
+- [Topic 0: Web & Internet Protocols](https://www.aniqa.io/topic-0/)
+- [Topic 1: Bash/zsh Command Line](https://www.aniqa.io/topic-1/)
 
 <a href="https://www.aniqa.io/subscribe/"><h3>Subscribe to My Journey 👩🏻‍💻🪄</h3></a>
 
