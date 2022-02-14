@@ -2,7 +2,7 @@
 
 
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working my way through the [#100DaysOfCode challenge](https://github.com/aniqatc/100-days-of-code) 
+- 🔭 I’m currently working my way through the [daily journalling about my progress](https://github.com/aniqatc/learning-journal) 
 - 🌱 I’m currently learning in public: full stack software development & blogging my process along the way.
 - 👯 I’m looking to collaborate on open-source projects, hackathons, and interning opportunities.
 - ⚡ Fun fact: I used to work at an elected official's office for three years - the complete opposite of the tech world 😅
@@ -14,8 +14,8 @@
 - [What I Hope to Accomplish During Round 1 of My #100DaysOfCode](https://www.aniqa.io/100-days-of-code-r1-goals-tasks/)
 - [Topic Log, Learning in Public](https://www.aniqa.io/r1-topic-log/)
 - [Daily Log, #100DaysOfCode](https://www.aniqa.io/r1-daily-log/)
-- [Topic 0: Web & Internet Protocols](https://www.aniqa.io/topic-0/)
-- [Topic 1: Bash/zsh Command Line](https://www.aniqa.io/topic-1/)
+- [Topic 0: Web & Internet Protocols](https://www.aniqa.io/r1-topic-0/)
+- [Topic 1: Bash/zsh Command Line](https://www.aniqa.io/r1-topic-1/)
 
 <a href="http://revue.aniqa.io/"><h3>Subscribe to My Journey 👩🏻‍💻🪄</h3></a>
 
