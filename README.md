@@ -11,7 +11,7 @@
 ---
 ### My Featured Blog Posts
 - [A Personal Reflection: Why I Choose Full Stack Development & My Goals](https://www.aniqa.io/full-stack-development-path-goals/)
-- [What I Hope to Accomplish During Round 1 of My #100DaysOfCode](https://www.aniqa.io/100-days-of-code-r1-goals-tasks/)
+- [What I Hope to Accomplish As Part of Learning in Public](https://www.aniqa.io/100-days-of-code-r1-goals-tasks/)
 - [Topic Log, Learning in Public](https://www.aniqa.io/r1-topic-log/)
 - [Daily Log, Journal](https://www.aniqa.io/r1-daily-log/)
 - [Topic 0: Web & Internet Protocols](https://www.aniqa.io/r1-topic-0/)
