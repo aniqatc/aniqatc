@@ -3,8 +3,8 @@
 
 - 😄 Pronouns: she/her
 - 🧰 **I'm building a [Detailed Learning Checklist of Topics and Resources](https://www.aniqa.io/syllabus).**
-- 🔭 I log my progress through [daily journalling](https://github.com/aniqatc/learning-journal).
-- 🌱 I’m learning full stack software development in **public** & documenting it in my own [digital garden](https://www.aniqa.io/).
+- 🔭 I log my progress through **[Daily Journalling](https://github.com/aniqatc/learning-journal)**.
+- 🌱 I’m learning full stack software development in **public** & documenting it in my own **[digital garden](https://www.aniqa.io/)**.
 - 👯 I’m looking to collaborate on open-source projects, hackathons, and job opportunities.
 - ⚡ Fun fact: I used to work at an elected official's office for three years - the complete opposite of the tech world 😅.
 - 👩🏻‍💻 2022 Hours spent in VS Code: <a href="https://www.aniqa.io"><img src="https://wakatime.com/badge/user/c1c1c183-d190-42bd-ae4f-09370e6fbbc6.svg"></a>
@@ -18,7 +18,7 @@
 - [Topic 0: Web & Internet Protocols](https://www.aniqa.io/r1-topic-0/)
 - [Topic 1: Bash/zsh Command Line](https://www.aniqa.io/r1-topic-1/)
 
-<a href="http://revue.aniqa.io/"><h3>Subscribe to My Journey 👩🏻‍💻🪄</h3></a>
+<a href="https://email.aniqa.io/"><h3>Subscribe to My Journey 👩🏻‍💻🪄</h3></a>
 
 ---
  <a href="https://www.aniqa.io"><img src="https://github-readme-stats.vercel.app/api?username=aniqatc&hide=contribs,prs&theme=algolia"></a>
