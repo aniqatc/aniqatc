@@ -1,5 +1,5 @@
 ## Hi, I'm Aniqa!
-👩🏻‍💻 Web Developer <br/>
+👩🏻‍💻 Web developer <br/>
 👯 I’m looking to collaborate on open-source projects and freelancing gigs<br/>
 💻 Currently building projects in public <br/>
 
