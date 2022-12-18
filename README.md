@@ -34,7 +34,7 @@ I'm <b>Aniqa</b>. A creative and self-taught frontend web developer that's build
 
 </td>
 <td width="45%">
- <a href="http://www.github.com/aniqatc"><img src="https://github-readme-stats.vercel.app/api?username=aniqatc&show_icons=true&theme=tokyonight" /></a>
+ <a href="http://www.github.com/aniqatc"><img src="https://github-readme-stats.vercel.app/api?username=aniqatc&show_icons=true&hide_border=true&border_radius=10&theme=tokyonight" /></a>
  
 </table>
   
