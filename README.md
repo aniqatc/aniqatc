@@ -25,7 +25,7 @@ I'm <b>Aniqa</b>. A creative and self-taught frontend web developer that's build
 <hr/>
 <div align="center">
    
-<a href="https://twitter.com/aniqatc"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aniqatc?color=blue&style=for-the-badge"></a>        <a href="https://twitter.com/aniqatc"><img src="https://wakatime.com/badge/user/c1c1c183-d190-42bd-ae4f-09370e6fbbc6.svg?style=for-the-badge" alt="Total time coded since Jan 2 2022" /></a> <a href="https://twitter.com/aniqatc"><img src="https://komarev.com/ghpvc/?username=aniqatc&style=for-the-badge"></a>
+<a href="https://twitter.com/aniqatc"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aniqatc?color=blue&style=for-the-badge"></a>    <a href="https://codepen.io/aniqatc"><img src="https://img.shields.io/badge/Codepen-aniqatc-blue?logo=codepen&style=for-the-badge"></a>    <a href="https://twitter.com/aniqatc"><img src="https://wakatime.com/badge/user/c1c1c183-d190-42bd-ae4f-09370e6fbbc6.svg?style=for-the-badge" alt="Total time coded since Jan 2 2022" /></a> <a href="https://twitter.com/aniqatc"><img src="https://komarev.com/ghpvc/?username=aniqatc&style=for-the-badge"></a>
 
 <table>
 <tr>
