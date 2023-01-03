@@ -6,6 +6,8 @@ I'm <b>Aniqa</b>. A creative and self-taught frontend web developer that's build
 <h4>Most Recent Projects:</h4>
 <ul>
   <li>
+    <a href="https://keyboard.aniqa.dev/" target="_blank">Themed Keyboard</a></li>
+  <li>
     <a href="https://weather.aniqa.dev/" target="_blank">Weather Dashboard</a></li>
     <li>
     <a href="https://omnifood.aniqa.dev/" target="_blank">Omnifood Redesign</a></li>
