@@ -19,12 +19,6 @@ I'm <b>Aniqa</b>. A creative and self-taught frontend web developer that's build
     <a href="https://nyc.aniqa.dev/" target="_blank">NYC</a></li>
   </ul>
  
-<h4>Coming Soon:</h4>
-<ul>
-  <li>README/Reflection for each project</li>
-
-  </ul>
-
 <hr/>
 <div align="center">
    
