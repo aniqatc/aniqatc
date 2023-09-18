@@ -5,6 +5,7 @@ I'm <b>Aniqa</b>. A creative and self-taught frontend web developer that's build
 
 <h4>Most Recent Projects:</h4>
 <ul>
+  <li><a href="https://nyc.aniqa.dev/" target="_blank">NYC Travel Guide</li>
   <li>
     <a href="https://keyboard.aniqa.dev/" target="_blank">Keyboard (w/ Markdown Preview)</a></li>
   <li>
@@ -15,8 +16,6 @@ I'm <b>Aniqa</b>. A creative and self-taught frontend web developer that's build
     <a href="https://hogwarts.aniqa.dev/" target="_blank">Hogwarts</a></li>
     <li>
     <a href="https://valorant.aniqa.dev/" target="_blank">Valorant Agents</a></li>
-    <li>
-    <a href="https://nyc.aniqa.dev/" target="_blank">NYC</a></li>
   </ul>
  
 <hr/>
