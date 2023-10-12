@@ -1,7 +1,6 @@
 <h1>👩🏻‍💻 </h1>
 
 
-I'm <b>Aniqa</b>. A creative and self-taught frontend web developer that's building <a href="https://www.aniqa.dev/" target="_blank">projects</a> in public. I conceptualize, design and code all of the projects I've worked on so far. Currently, I'm focused on building websites with vanilla JavaScript alongside HTML, CSS and occasionally, Bootstrap, but I have my eyes on React, Next, Three.js, and Tailwind for my future projects. I'm always open to collaborations. If you've enjoyed any of my projects or have any constructive criticism, <a href="https://twitter.com/aniqatc" target="_blank">reach out to me</a>!
 
 <h4>Current Challenges:</h4>
 <ul>
@@ -16,12 +15,6 @@ I'm <b>Aniqa</b>. A creative and self-taught frontend web developer that's build
     <a href="https://keyboard.aniqa.dev/" target="_blank">Keyboard (w/ Markdown Preview)</a></li>
   <li>
     <a href="https://weather.aniqa.dev/" target="_blank">Weather Dashboard</a></li>
-    <li>
-    <a href="https://omnifood.aniqa.dev/" target="_blank">Omnifood Redesign</a></li>
-    <li>
-    <a href="https://hogwarts.aniqa.dev/" target="_blank">Hogwarts</a></li>
-    <li>
-    <a href="https://valorant.aniqa.dev/" target="_blank">Valorant Agents</a></li>
   </ul>
  
 <hr/>
