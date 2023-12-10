@@ -1,14 +1,9 @@
 <h1>👩🏻‍💻 </h1>
 
-
-
-<h4>Current Challenges:</h4>
-<ul>
-   <li><a href="https://css100.aniqa.dev/" target="_blank">100 Days of CSS</a></li>
-  </ul>
-
 <h4>Most Recent Projects:</h4>
 <ul>
+      <li><a href="https://code.aniqa.dev/" target="_blank">AI Coding Assistance Chat</a></li>
+      <li><a href="https://css100.aniqa.dev/" target="_blank">100 Days of CSS</a></li>
    <li><a href="https://clock.aniqa.dev/" target="_blank">World Clock Dashboard</a></li>
   <li><a href="https://nyc.aniqa.dev/" target="_blank">NYC Travel Guide</a></li>
   <li>
